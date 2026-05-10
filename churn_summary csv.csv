@@ -1,0 +1,6 @@
+segment,users,avg_risk,total_revenue
+"High Value At Risk",110,100.81,575427.93
+"Low Engagement",111,260.37,159842.91
+"Churned Users",59,85.37,28393.01
+"Regular Users",228,14.3,29641.37
+"High Value Active",27,18.67,160821.41

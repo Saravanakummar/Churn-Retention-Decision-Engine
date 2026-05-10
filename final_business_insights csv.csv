@@ -1,0 +1,6 @@
+segment,priority_level,users,total_revenue,revenue_at_risk
+"High Value At Risk",HIGH,110,575427.93,575427.93
+"Low Engagement",LOW,111,159842.91,0.00
+"Churned Users",MEDIUM,59,28393.01,28393.01
+"Regular Users",NORMAL,228,29641.37,0.00
+"High Value Active",NORMAL,27,160821.41,0.00
